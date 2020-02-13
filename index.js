@@ -36,7 +36,7 @@ async function start() {
     }
     console.log('down here response is: ' + response)
   }
-  console.log('some victory message')
+  console.log('Victory!')
   process.exit();
 }
 
